@@ -161,7 +161,7 @@ div:nth-child(9) {
 
 div:nth-child(10) { 
     color: red;
-    font-size: 13rem;
+    font-size: 11rem;
     font-family: sans-serif;
     letter-spacing: 0.1rem;
     grid-column-start: 4;
